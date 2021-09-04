@@ -1,1 +1,13 @@
-body{max-width:1920px;margin:0 auto;padding:0}
+body{max-width:1920px;margin:0 auto;padding:0}body .descod_floating_social_media{width:46px;background-color:#f8f8f8}body .descod_floating_social_media.floating_bottom_left{position:absolute;left:10px;bottom:10px}
+
+.border_radius_5px{border-radius:5px}
+
+.box_shadow_005_grey_c{-webkit-box-shadow:0 0 5px #ccc;box-shadow:0 0 5px #ccc}
+
+.col_100{width:100%}.col_100.padding_10{width:calc(100% - 20px)}
+
+.float_left{float:left}
+
+.icon{background-image:url("../images/icons/icons.png")}.facebook{width:26px;height:26px;background-position:0 0;-webkit-transition:all 0.3s ease-in-out;transition:all 0.3s ease-in-out}.facebook:hover{background-position:-25px 0}.twitter{width:26px;height:26px;background-position:-150px 0;-webkit-transition:all 0.3s ease-in-out;transition:all 0.3s ease-in-out}.twitter:hover{background-position:-175px 0}.linkedin{width:26px;height:26px;background-position:-75px 0;-webkit-transition:all 0.3s ease-in-out;transition:all 0.3s ease-in-out}.linkedin:hover{background-position:-100px 0}
+
+.padding_10{padding:10px}

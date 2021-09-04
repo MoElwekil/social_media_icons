@@ -1,0 +1,36 @@
+.icon {
+  background-image: url("../images/icons/icons.png");
+}
+
+.facebook {
+  width: 26px;
+  height: 26px;
+  background-position: 0 0;
+  transition: all 0.3s ease-in-out;
+
+  &:hover {
+    background-position: -25px 0;
+  }
+}
+
+.twitter {
+  width: 26px;
+  height: 26px;
+  background-position: -150px 0;
+  transition: all 0.3s ease-in-out;
+
+  &:hover {
+    background-position: -175px 0;
+  }
+}
+
+.linkedin {
+  width: 26px;
+  height: 26px;
+  background-position: -75px 0;
+  transition: all 0.3s ease-in-out;
+
+  &:hover {
+    background-position: -100px 0;
+  }
+}

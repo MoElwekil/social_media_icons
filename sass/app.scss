@@ -1,6 +1,18 @@
-body {
-	max-width: 1920px;
-	margin: 0 auto;
-	padding: 0;
+$grey_f8: #f8f8f8;
 
+body {
+  max-width: 1920px;
+  margin: 0 auto;
+  padding: 0;
+
+  .descod_floating_social_media {
+    width: 46px;
+    background-color: $grey_f8;
+
+    &.floating_bottom_left {
+      position: absolute;
+      left: 10px;
+      bottom: 10px;
+    }
+  }
 } // body
