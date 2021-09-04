@@ -1,0 +1,37 @@
+{
+  "name": "socialmediaicons",
+  "version": "1.0.0",
+  "description": "Social Media Icons code",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-eslint": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoElwekil/social_media_icons.git"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "icons",
+    "facebook",
+    "twitter",
+    "youtube",
+    "linkedin"
+  ],
+  "author": "Mohamed Elwekil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoElwekil/social_media_icons/issues"
+  },
+  "homepage": "https://github.com/MoElwekil/social_media_icons#readme"
+}
